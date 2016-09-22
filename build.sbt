@@ -4,11 +4,9 @@ name := "sbt-dirty-money"
 
 organization := "com.eed3si9n"
 
-version := "0.1.0"
+version := "0.2.0-dnw"
 
-sbtVersion in Global := "0.13.0-RC5" 
-
-scalaVersion in Global := "2.10.2" 
+scalaVersion in Global := "2.10.6" 
 
 description := "sbt plugin for cleaning Ivy2 cache"
 
